@@ -1,8 +1,18 @@
-## Creative Buttons
----
-React için kullanılabilecek butonları içeren npm paketidir. Bu paket patika.dev front-end kapsamında oluşturulmuştur.
+# creative-buttons
 
-```js
+> creative react buttons
+
+[![NPM](https://img.shields.io/npm/v/creative-buttons.svg)](https://www.npmjs.com/package/creative-buttons) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+
+## Install
+
+```bash
+npm install --save creative-buttons
+```
+
+## Usage
+
+```jsx
 import React from 'react'
 
 import { Button } from 'creative-buttons'
@@ -21,14 +31,6 @@ const App = () => {
 }
 ```
 
-Install
----
+## License
 
-`npm install`
-
-
-Usage
----
-
-`npm start`
-
+MIT © [mrtozn1923](
